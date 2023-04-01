@@ -1,0 +1,13 @@
+# CoinInfo
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**contract** | Option<**String**> |  | [optional]
+**holders** | Option<**f32**> |  | [optional]
+**supply** | Option<**String**> |  | [optional]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
